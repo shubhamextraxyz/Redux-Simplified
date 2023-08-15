@@ -1,3 +1,5 @@
+# JUST IGNORE THE FEATURES FOLDER, IT'S FOR REFRENCE AS PER REDUX DOCUMENTATION.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
